@@ -1,0 +1,29 @@
+h1{
+    text-align : center;
+    text-decoration : red dashed underline;
+}
+#one{
+    font-family : Arial; 
+    text-align : center;
+    font-weight :bold;
+}
+a{ 
+    text-decoration: 300;
+}
+#two{
+    font-family:'Times New Roman';
+    line-height: 30px;
+    text-transform: uppercase;
+}
+#p1{
+    font-size: 20px;
+}
+#p3{
+    font-size: 10px;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
